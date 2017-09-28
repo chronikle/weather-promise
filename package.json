@@ -1,0 +1,23 @@
+{
+  "name": "weather-promise",
+  "version": "1.0.0",
+  "description": "simple weather app based on axios",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chronikle/weather-promise.git"
+  },
+  "author": "Alexandru Caprarescu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chronikle/weather-promise/issues"
+  },
+  "homepage": "https://github.com/chronikle/weather-promise#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "yargs": "^9.0.1"
+  }
+}
